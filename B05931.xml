@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sorrowful mother, or, The pious daughters last farewel. She patiently did run her race, believ'd the word of truth; and death did willingly embrace, tho' in her blooming youth. To the tune of, Troy Town. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05931</idno>
+            <idno type="STC">Wing S4717</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[93]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[438]</idno>
+            <idno type="EEBO-CITATION">99887300</idno>
+            <idno type="PROQUEST">ocm99887300</idno>
+            <idno type="VID">183554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183554)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[93]; A5:2[345])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sorrowful mother, or, The pious daughters last farewel. She patiently did run her race, believ'd the word of truth; and death did willingly embrace, tho' in her blooming youth. To the tune of, Troy Town. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Deacon, at the Angel in Guilt-Spur-street.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1685-1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Verse: "Dear mother, I alas! must leave ..."</note>
+                  <note>Item at A5:2[345] trimmed.</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183554:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>The Sorrowful Mother, OR, The Pious Daughters Laſt Farewel.</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>She patiently did run her Race,</hi>
+                  </l>
+                  <l>
+                     <hi>believ'd the World of Truth;</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>And Death did willingly embrace,</hi>
+                  </l>
+                  <l>
+                     <hi>tho' in her blooming Youth.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, <hi>Troy Town.</hi>
+            </opener>
+            <p>This may be printed, <hi>R. P.</hi>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>Dear Mother, I alas! muſt leave</l>
+               <l>the pleaſures of this life, and you,</l>
+               <l>Yet never ſeem to ſigh or grieve,</l>
+               <l>although I bid the world adieu;</l>
+               <l>Tho' Death now my life deſtroy,</l>
+               <l>Yet we ſhall meet again in joy.</l>
+            </lg>
+            <lg>
+               <l>My Daughter dear, and is it ſo?</l>
+               <l>that I indeed muſt part with thee;</l>
+               <l>This fills my heart with grief and woe;</l>
+               <l>from ſorrow I ſhall ne'r be free;</l>
+               <l>But languiſh here in deep Diſpair,</l>
+               <l>My grief is more then I can bear.</l>
+            </lg>
+            <lg>
+               <l>Dear Mother, do not thus lament,</l>
+               <l>my joys abundantly encreaſe,</l>
+               <l>To leave this world I am content,</l>
+               <l>for I ſhall now lye down in peace.</l>
+               <l>Such moan for me you need not make,</l>
+               <l>Sure he that gives may freely take.</l>
+            </lg>
+            <lg>
+               <l>To his good will I ought agree,</l>
+               <l>but as thou art my Daughter dear,</l>
+               <l>I weep and do lament to ſee</l>
+               <l>that Heavens hand is ſo ſevere;</l>
+               <l>To ſend thee to the ſilent Grave,</l>
+               <l>Do greater ſorrow can I have.</l>
+            </lg>
+            <lg>
+               <l>O that I could but you enjoyn</l>
+               <l>to exerciſe your patience ſtill,</l>
+               <l>And never murmur nor repine,</l>
+               <l>againſt the Lords moſt gracious will;</l>
+               <l>For if he ſay, it ſhall be ſo,</l>
+               <l>Why ſhould I not be free to go?</l>
+            </lg>
+            <lg>
+               <l>My feeble Carcaſs now is weak,</l>
+               <l>therefore I ſay my deareſt friends,</l>
+               <l>Vnto the Lord alone I ſeek,</l>
+               <l>to gain a pardon for my Sins:</l>
+               <l>That ſo my Conſcience may be clear,</l>
+               <l>Deaths cruel Dart I'de never fear.</l>
+            </lg>
+            <lg>
+               <l>For it will me from grief releaſe,</l>
+               <l>as ſoon as he the ſtroke ſhall give,</l>
+               <l>I having made my perfect peace,</l>
+               <l>I now had rather dye then life:</l>
+               <l>Alas! what is this preſent Life,</l>
+               <l>But ſorrow, trouble, care and ſtrife.</l>
+            </lg>
+            <lg>
+               <l>Her Friends was fill'd with grief and woe,</l>
+               <l>ſo that they could not we I refrain</l>
+               <l>From tears which did in ſorrow flow,</l>
+               <l>they wrung their hands and wept amain</l>
+               <l>With fainting v<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ice, O then ſaid ſhe,</l>
+               <l>Weep for your Sins and not for me.</l>
+            </lg>
+            <lg>
+               <l>For I am going where I ſhall</l>
+               <l>Be happy to Eternity;</l>
+               <l>Therefore to God for Mercy call,</l>
+               <l>as knowing you muſt follow me:</l>
+               <l>No Mortal in the world is free</l>
+               <l>From Deaths Vſurping Tyranny.</l>
+            </lg>
+            <lg>
+               <l>Tho' ſome you ſee in Pride appears,</l>
+               <l>adorn'd in Silk and ſweet Perfume,</l>
+               <l>Althou they flouriſh many year;</l>
+               <l>yet Death at laſt will be their Doom</l>
+               <l>they then muſt change their garments <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>For a poor shroud or Winding-Sheet.</l>
+            </lg>
+            <lg>
+               <l>Conſider well what I have ſaid,</l>
+               <l>for I muſt leave you now, ſaid ſhe</l>
+               <l>For here behold all round my Bed,</l>
+               <l>ſweet Meſſengers that waits for me</l>
+               <l>Who on their Wings will me convey,</l>
+               <l>Where peace and joys will ne'r decay.</l>
+            </lg>
+            <lg>
+               <l>This does much comfort now afford,</l>
+               <l>as knowing they my Soul will bring</l>
+               <l>Into the preſence of the Lord,</l>
+               <l>where bleſſed Saints and Angels Sir</l>
+               <l>Then with a dying ſigh, ſaid ſhe,</l>
+               <l>Sweet Saviour now I come to thee.</l>
+            </lg>
+            <lg>
+               <l>When ſhe out of this world did go,</l>
+               <l>her Mothers ſorrow was not ſmall,</l>
+               <l>Each friend did manifeſt her woe,</l>
+               <l>by tears, which did like ſhowers fall:</l>
+               <l>No tongue is able to expreſs,</l>
+               <l>Their ſorrow, grief, and heavineſs.</l>
+            </lg>
+            <lg>
+               <l>A tender Mother did expreſs</l>
+               <l>Thoſe words unto her friends, and fa<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>
+               </l>
+               <l>My grief and ſorrow is the leſs,</l>
+               <l>to ſee the happy end ſhe made:</l>
+               <l>a worthy pattern may ſhe be,</l>
+               <l>To Damſels now of each degrees.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed</hi> for I. Deacon, <hi>at the</hi> Angel <hi>in</hi> Guilt ſpur-ſtreet.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
